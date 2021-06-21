@@ -1,5 +1,4 @@
-# Monke Bot
-List of Monke bots commands:
+# List of Monke bots commands:
 
 Game:
   8ball:          It's a 8 ball EB also works
