@@ -14,3 +14,18 @@ Game:
   
   Say:            The bot says what you say
 
+Math:
+
+  add:            Monke will add two numbers for you
+
+  multiply:       Monke will multiply two numbers for you
+
+Reddit:
+  
+  meme:           Gives you a meme from r/memes
+  
+  subby:          Gives you a meme from the subreddit of your choice
+
+Covid:
+
+ 
