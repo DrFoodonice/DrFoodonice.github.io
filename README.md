@@ -1,6 +1,6 @@
 # Monke Bot
 
-## List of Monke bots commands:
+### List of Monke bots commands:
 
 Game:
 
