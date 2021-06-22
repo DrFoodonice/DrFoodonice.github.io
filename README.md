@@ -1,8 +1,8 @@
 # Monke Bot
 
-### List of Monke bots commands:
+## List of Monke bots commands:
 
-## Game:
+### Game:
 
   8ball: It's a 8 ball EB also works
   
@@ -15,21 +15,21 @@
   Say: The bot says what you say
 
 
-Math:
+### Math:
 
   add: Monke will add two numbers for you
 
   multiply: Monke will multiply two numbers for you
 
 
-Reddit:
+### Reddit:
   
   meme: Gives you a meme from r/memes
   
   subby: Gives you a meme from the subreddit of your choice
 
 
-Covid:
+### Covid:
 
  ActiveCases: The total number of Active covid cases in a country, usage: "?AC Canada"
 
